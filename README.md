@@ -11,6 +11,7 @@ This is a repository with various data science projects I have done as part of m
 - [Data Science](#Data-Science)
 	+ [Visualisation and Exploration](#visualisation-and-exploration)
 - [Machine Learning](#Machine-Learning)
+	+ [Python](#python-implementations)
 - [Contact](#contact)
 
 ## SQL
@@ -28,9 +29,9 @@ In this section I will focus about digging up relationship and visualising data.
 | Tempe Crime Analysis | An exploration and visualization of Tempe crime based on Tempe PD and ASU PD datasets | [Tempe Data]( https://data-tempegov.opendata.arcgis.com/datasets/02533928ed1649d2ac773c8ebf50f37d_1?geometry=-111.959%2C33.414%2C-111.899%2C33.426) | [ASU data]( https://moto.data.socrata.com/dataset/Arizona-State-University-Police-Department/6fzp-yqnh) | [notbook](https://github.com/seb-patron/tempe-crime-analysis/blob/master/notebooks/0001-tempe-crime-exploration-and-visualization.ipynb) | 15.11.2018 | 19.11.2018 |
 
 
-### Machine Learning
+## Machine Learning
 
-#### Python
+### Python Implementations
 | ML Algorithm | Description | Dataset | Link | Creation Date | Last Update |
 | :---: | :---: | :---: | :---: | :---: | :---: |
 | Linear Regression | - | Food Truck Data | [notbook](https://github.com/seb-patron/machine-learning-stanford/blob/master/hw1/exercise1.ipynb) | 09.09.2017 | 09.09.2017 |
