@@ -15,9 +15,9 @@ This is a repository with various data science projects I have done as part of m
 - [Contact](#contact)
 
 ## SQL
-| Description  | Source | Creation Date | Link |
+| Description  | Source | Link | Creation Date |
 | :---: | :---: | :---: | :---: |
-| Advance SQL queries in Postgres. Includes Joins, reading queries into pandas. Based on Jitbit practice questions. | [Jitbit Blog link](https://www.jitbit.com/news/181-jitbits-sql-interview-questions/) | 20.11.2018 | [Link](https://github.com/seb-patron/jitbit-sql-practice/blob/master/notebooks/0001-jitbit-sql-questions.ipynb) |
+| Advance SQL queries in Postgres. Includes Joins, reading queries into pandas. Based on Jitbit practice questions. | [Jitbit Blog link](https://www.jitbit.com/news/181-jitbits-sql-interview-questions/) | [notebook](https://github.com/seb-patron/jitbit-sql-practice/blob/master/notebooks/0001-jitbit-sql-questions.ipynb) | 20.11.2018 |
 
 
 ## Data Science
@@ -35,7 +35,7 @@ This section focuses on digging up relationships and visualising data. Showcases
 ### Python Implementations
 | ML Algorithm | Description | Dataset | Link | Creation Date | Last Update |
 | :---: | :---: | :---: | :---: | :---: | :---: |
-| Linear Regression | - | Food Truck Data | [notbook](https://github.com/seb-patron/machine-learning-stanford/blob/master/hw1/exercise1.ipynb) | 09.09.2017 | 09.09.2017 |
+| Linear Regression | - | Food Truck Data | [notebook](https://github.com/seb-patron/machine-learning-stanford/blob/master/hw1/exercise1.ipynb) | 09.09.2017 | 09.09.2017 |
 
 
 ## Contact
