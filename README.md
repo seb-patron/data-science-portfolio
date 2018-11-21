@@ -1,6 +1,5 @@
 # data-science-portfolio
 
-# Kamil Krzyk - My Road to AI
 
 ## About
 This is a repository with various data science projects I have done as part of my portfolio.
@@ -11,6 +10,7 @@ This is a repository with various data science projects I have done as part of m
 - [SQL](#SQL)
 - [Data Science](#Data-Science)
 	+ [Visualisation and Exploration](#visualisation-and-exploration)
+- [Machine Learning](#Machine-Learning)
 - [Contact](#contact)
 
 ## SQL
@@ -28,10 +28,7 @@ In this section I will focus about digging up relationship and visualising data.
 | Tempe Crime Analysis | An exploration and visualization of Tempe crime based on Tempe PD and ASU PD datasets | [Tempe Data]( https://data-tempegov.opendata.arcgis.com/datasets/02533928ed1649d2ac773c8ebf50f37d_1?geometry=-111.959%2C33.414%2C-111.899%2C33.426) | [ASU data]( https://moto.data.socrata.com/dataset/Arizona-State-University-Police-Department/6fzp-yqnh) | [notbook](https://github.com/seb-patron/tempe-crime-analysis/blob/master/notebooks/0001-tempe-crime-exploration-and-visualization.ipynb) | 15.11.2018 | 19.11.2018 |
 
 
-## Data Science
-In this section I will focus about digging up relationship and visualising data. I will try to use Machine learning and visualisation methods for problem solving.
-
-### Basic Algorithms
+### Machine Learning
 
 #### Python
 | ML Algorithm | Description | Dataset | Link | Creation Date | Last Update |
