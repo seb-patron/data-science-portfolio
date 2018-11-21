@@ -21,7 +21,7 @@ This is a repository with various data science projects I have done as part of m
 
 
 ## Data Science
-In this section I will focus about digging up relationship and visualising data. I will try to use Machine learning and visualisation methods for problem solving.
+This section focuses on digging up relationships and visualising data. Showcases SQL querying, basic data science skills, machine learning and visualisation methods for problem solving.
 
 ### Visualisation and Exploration
 | Problem | Description | Dataset | Implementation | Creation Date | Last Update |
