@@ -9,10 +9,8 @@ This is a repository with various data science projects I have done as part of m
 - [About](#about)
 - [Table of Contents](#table-of-contents)
 - [SQL](#SQL)
-- [AI Related Presentations](#ai-related-presentations)
-- [Data Science](#Data Science)
+- [Data Science](#Data-Science)
 	+ [Visualisation and Exploration](#visualisation-and-exploration)
-
 - [Contact](#contact)
 
 ## SQL
