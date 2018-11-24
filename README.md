@@ -15,9 +15,10 @@ This is a repository with various data science projects I have done as part of m
 - [Contact](#contact)
 
 ## SQL
-| Description  | Source | Link | Creation Date |
-| :---: | :---: | :---: | :---: |
-| Advance SQL queries in Postgres. Includes Joins, reading queries into pandas. Based on Jitbit practice questions. | [Jitbit Blog link](https://www.jitbit.com/news/181-jitbits-sql-interview-questions/) | [notebook](https://github.com/seb-patron/jitbit-sql-practice/blob/master/notebooks/0001-jitbit-sql-questions.ipynb) | 20.11.2018 |
+| Description  | Source | SQL DB | Link | Creation Date |
+| :---: | :---: | :---: | :---: | :---: |
+| Advance SQL queries in Postgres. Includes Joins, reading queries into pandas. Based on Jitbit practice questions. | [Jitbit Blog link](https://www.jitbit.com/news/181-jitbits-sql-interview-questions/) | PostgreSQL| [notebook](https://github.com/seb-patron/jitbit-sql-practice/blob/master/notebooks/0001-jitbit-sql-questions.ipynb) | 20.11.2018 |
+| Interview Cake's sample SQL questions. | [Interview Cake](https://www.interviewcake.com/article/java/sql) | MySQL| [notebook](https://github.com/seb-patron/interview_cake_sql/blob/master/notebooks/0001-interview-cake-mysql.ipynb) | 23.11.2018 |
 
 
 ## Data Science
