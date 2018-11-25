@@ -37,6 +37,7 @@ This section focuses on digging up relationships and visualising data. Showcases
 | ML Algorithm | Description | Dataset | Link | Creation Date | Last Update |
 | :---: | :---: | :---: | :---: | :---: | :---: |
 | Linear Regression | - | Food Truck Data | [notebook](https://github.com/seb-patron/machine-learning-stanford/blob/master/hw1/exercise1.ipynb) | 09.09.2017 | 09.09.2017 |
+| Logistic Regression | Logistic Regression Implemented in raw Python | Exam Scores, Microchip Tolerance Scores | [notebook](https://github.com/seb-patron/machine-learning-stanford/blob/master/hw2/logistic-regresion.ipynb) | 09.09.2017 | 24.11.2018 |
 
 
 ## Contact
