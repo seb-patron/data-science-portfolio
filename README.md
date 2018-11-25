@@ -41,5 +41,5 @@ This section focuses on digging up relationships and visualising data. Showcases
 
 
 ## Contact
-- Website: [sebastianpatron.com](sebastianpatron.com)
+- Website: [sebastianpatron.com](https://sebastianpatron.com)
 - E-mail: sebastian.patrones@gmail.com
