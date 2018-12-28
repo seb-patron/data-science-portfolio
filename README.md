@@ -38,6 +38,7 @@ This section focuses on digging up relationships and visualising data. Showcases
 | :---: | :---: | :---: | :---: | :---: | :---: |
 | Linear Regression | - | Food Truck Data | [notebook](https://github.com/seb-patron/machine-learning-stanford/blob/master/hw1/exercise1.ipynb) | 09.09.2017 | 09.09.2017 |
 | Logistic Regression | Logistic Regression Implemented in raw Python | Exam Scores, Microchip Tolerance Scores | [notebook](https://github.com/seb-patron/machine-learning-stanford/blob/master/hw2/logistic-regresion.ipynb) | 09.09.2017 | 24.11.2018 |
+| Naive Bayes | Naive Bayes spam text classifier using a TF-IDF Tabu List | Kaggle | [notebook](https://github.com/seb-patron/machine-learning-python/blob/master/notebooks/naive_bayes/0001-Model-BUILD-Naive-Bayes-Spam-Classification.ipynb) | 21.12.2018 | 28.12.2018 |
 
 
 ## Contact
