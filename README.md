@@ -28,7 +28,7 @@ Projects focused on exploring relationships and visualizing data using various t
 | Project | Description | Dataset | Implementation | Created | Updated |
 |---------|-------------|---------|----------------|---------|---------|
 | **Tempe Crime Analysis** | Exploration and visualization of crime patterns using Tempe PD and ASU PD data | [Tempe Data](https://data-tempegov.opendata.arcgis.com/datasets/02533928ed1649d2ac773c8ebf50f37d_1?geometry=-111.959%2C33.414%2C-111.899%2C33.426) - [ASU Data](https://moto.data.socrata.com/dataset/Arizona-State-University-Police-Department/6fzp-yqnh) | [Notebook](https://github.com/seb-patron/tempe-crime-analysis/blob/master/notebooks/0001-tempe-crime-exploration-and-visualization.ipynb) | Jan 2025 | Jan 2025 |
-| **Pokemon Data Visualization** | Statistical visualizations of Pokemon characteristics using Seaborn | [Elite Data Science](https://elitedatascience.com/wp-content/uploads/2017/04/Pokemon.csv) | [Notebook](https://github.com/seb-patron/Seaborn-Visualizations/blob/master/notebooks/0001-visualizing-pokemon-data-seaborn.ipynb) | Nov 2018 | Nov 2018 |
+| **Pokemon Data Visualization** | Statistical visualizations of Pokemon characteristics using Seaborn | [Elite Data Science](https://elitedatascience.com/wp-content/uploads/2017/04/Pokemon.csv) | [Notebook](https://github.com/seb-patron/Seaborn-Visualizations/blob/master/notebooks/0001-visualizing-pokemon-data-seaborn.ipynb) | Dec 2024 | Dec 2024 |
 
 ## 🔥 Big Data Projects
 
@@ -38,6 +38,7 @@ Projects utilizing big data technologies and frameworks.
 
 | Project | Description | Technology | Implementation | Created | Updated |
 |---------|-------------|------------|----------------|---------|---------|
+| **Spark Project Starter** | Quick and easy way to start Apache Spark projects with support for both Python and Scala in Docker containers with Jupyter notebooks | Apache Spark, Docker | [Repository](https://github.com/seb-patron/spark-project-starter) | 2025 | 2025 |
 | **Pokemon VGC Analysis** | Framework for analyzing Pokemon VGC (Video Game Championship) battle data, including scripts to download battle replays and ladder rankings | Apache Spark | [Repository](https://github.com/seb-patron/VGC-Analysis) | 2025 | 2025 |
 
 #### VGC Analysis Notebooks
