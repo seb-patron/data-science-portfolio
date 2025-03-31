@@ -43,10 +43,10 @@ Projects utilizing big data technologies and frameworks.
 
 #### VGC Analysis Notebooks
 
-| Notebook | Description | Link |
-|----------|-------------|------|
-| **Data Preprocessing** | Preprocessing of Pokemon battle data using Spark | [Notebook](https://github.com/seb-patron/VGC-Analysis/blob/main/notebooks/data_preprocessing.ipynb) |
-| **Top Wins Analysis** | Analysis of top-performing Pokemon and strategies | [Notebook](https://github.com/seb-patron/VGC-Analysis/blob/main/notebooks/top_wins_analysis.ipynb) |
+| Notebook                 | Description                                           | Link                                                                                                            |
+|--------------------------|-------------------------------------------------------|----------------------------------------------------------------------------------------------------------------|
+| **Data Preprocessing**   | Preprocessing of Pokemon battle data using Spark      | [Notebook](https://github.com/seb-patron/VGC-Analysis/blob/main/notebooks/data_preprocessing.ipynb)             |
+| **Top Wins Analysis**    | Analysis of top-performing Pokemon and strategies     | [Notebook](https://github.com/seb-patron/VGC-Analysis/blob/main/notebooks/top_wins_analysis.ipynb)              |
 
 ## 🗃️ SQL Projects
 
