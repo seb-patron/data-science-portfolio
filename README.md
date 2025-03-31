@@ -38,15 +38,16 @@ Projects utilizing big data technologies and frameworks.
 
 | Project | Description | Technology | Implementation | Created | Updated |
 |---------|-------------|------------|----------------|---------|---------|
-| **Spark Project Starter** | Quick and easy way to start Apache Spark projects with support for both Python and Scala in Docker containers with Jupyter notebooks | Apache Spark, Docker | [Repository](https://github.com/seb-patron/spark-project-starter) | 2025 | 2025 |
-| **Pokemon VGC Analysis** | Framework for analyzing Pokemon VGC (Video Game Championship) battle data, including scripts to download battle replays and ladder rankings | Apache Spark | [Repository](https://github.com/seb-patron/VGC-Analysis) | 2025 | 2025 |
+| **Spark Project Starter** | Quick and easy way to start Apache Spark projects with support for both Python and Scala in Docker containers with Jupyter notebooks | Apache Spark, Docker | [Repository](https://github.com/seb-patron/spark-project-starter) | Feb 2025 | March 2025 |
+| **Pokemon VGC Analysis** | Framework for analyzing Pokemon VGC (Video Game Championship) battle data, including scripts to download battle replays and ladder rankings | Apache Spark | [Repository](https://github.com/seb-patron/VGC-Analysis) | March 2025 | March 2025 |
+
 
 #### VGC Analysis Notebooks
 
-| Notebook                 | Description                                           | Link                                                                                                            |
-|--------------------------|-------------------------------------------------------|----------------------------------------------------------------------------------------------------------------|
-| **Data Preprocessing**   | Preprocessing of Pokemon battle data using Spark      | [Notebook](https://github.com/seb-patron/VGC-Analysis/blob/main/notebooks/data_preprocessing.ipynb)             |
-| **Top Wins Analysis**    | Analysis of top-performing Pokemon and strategies     | [Notebook](https://github.com/seb-patron/VGC-Analysis/blob/main/notebooks/top_wins_analysis.ipynb)              |
+| Notebook                 | Description                                           | Link                                                                                                            | Created    | Updated    |
+|--------------------------|-------------------------------------------------------|----------------------------------------------------------------------------------------------------------------|------------|------------|
+| **Data Preprocessing**   | Preprocessing of Pokemon battle data using Spark      | [Notebook](https://github.com/seb-patron/VGC-Analysis/blob/main/notebooks/data_preprocessing.ipynb)             | March 2025   | March 2025   |
+| **Top Wins Analysis**    | Analysis of top-performing Pokemon and strategies     | [Notebook](https://github.com/seb-patron/VGC-Analysis/blob/main/notebooks/top_wins_analysis.ipynb)              | March 2025   | March 2025   |
 
 ## 🗃️ SQL Projects
 
