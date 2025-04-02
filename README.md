@@ -39,6 +39,7 @@ Projects utilizing big data technologies and frameworks.
 | Project | Description | Technology | Implementation | Created | Updated |
 |---------|-------------|------------|----------------|---------|---------|
 | **Spark Project Starter** | Quick and easy way to start Apache Spark projects with support for both Python and Scala in Docker containers with Jupyter notebooks | Apache Spark, Docker | [Repository](https://github.com/seb-patron/spark-project-starter) | Feb 2025 | March 2025 |
+| **arXiv Spark** | Analysis of arXiv academic paper dataset using Apache Spark for distributed data processing and Elasticsearch for search capabilities | Apache Spark, Elasticsearch | [Repository](https://github.com/seb-patron/arxiv-spark) | April 2025 | April 2025 |
 | **Pokemon VGC Analysis** | Framework for analyzing Pokemon VGC (Video Game Championship) battle data, including scripts to download battle replays and ladder rankings | Apache Spark | [Repository](https://github.com/seb-patron/VGC-Analysis) | March 2025 | March 2025 |
 
 
@@ -48,6 +49,13 @@ Projects utilizing big data technologies and frameworks.
 |--------------------------|-------------------------------------------------------|----------------------------------------------------------------------------------------------------------------|------------|------------|
 | **Data Preprocessing**   | Preprocessing of Pokemon battle data using Spark      | [Notebook](https://github.com/seb-patron/VGC-Analysis/blob/main/notebooks/data_preprocessing.ipynb)             | March 2025   | March 2025   |
 | **Top Wins Analysis**    | Analysis of top-performing Pokemon and strategies     | [Notebook](https://github.com/seb-patron/VGC-Analysis/blob/main/notebooks/top_wins_analysis.ipynb)              | March 2025   | March 2025   |
+
+#### arXiv Spark Notebooks
+
+| Notebook                 | Description                                           | Link                                                                                                            | Created    | Updated    |
+|--------------------------|-------------------------------------------------------|----------------------------------------------------------------------------------------------------------------|------------|------------|
+| **Elasticsearch Integration**   | Processing and indexing arXiv papers with citation networks into Elasticsearch, enabling complex queries combining content similarity with citation analysis | [Notebook](https://github.com/seb-patron/arxiv-spark/blob/main/notebooks/index-papers-with-refs-to-elasticsearch.ipynb) | April 2025 | April 2025 |
+| **Supervised Classification**   | ML techniques to classify arXiv papers based on their title and abstract text using PySpark ML library, achieving ~62% accuracy across 100+ scientific categories | [Notebook](https://github.com/seb-patron/arxiv-spark/blob/main/notebooks/arxiv-supervised-classification.ipynb) | April 2025 | April 2025 |
 
 ## 🗃️ SQL Projects
 
