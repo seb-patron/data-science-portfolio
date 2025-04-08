@@ -11,16 +11,18 @@
 
 Welcome to my data science portfolio! This repository showcases various projects demonstrating my skills in SQL, data visualization, exploratory data analysis, and machine learning implementations.
 
+**Jump to technology**: [Apache Spark](#-apache-spark-projects) | [Apache Airflow](#-orchestration-projects)
+
 ## 📑 Table of Contents
 
-- [Data Science Projects](#data-science-projects)
-- [Big Data Projects](#big-data-projects)
+- [Visualization and Analysis](#visualization-and-analysis)
+- [Apache Spark Projects](#apache-spark-projects)
 - [Orchestration Projects](#orchestration-projects)
 - [SQL Projects](#sql-projects)
 - [Machine Learning Projects](#machine-learning-projects)
 - [Contact Information](#contact-information)
 
-## 📊 Data Science Projects
+## 📊 Visualization and Analysis
 
 Projects focused on exploring relationships and visualizing data using various techniques.
 
@@ -31,9 +33,9 @@ Projects focused on exploring relationships and visualizing data using various t
 | **Tempe Crime Analysis** | Exploration and visualization of crime patterns using Tempe PD and ASU PD data | [Tempe Data](https://data-tempegov.opendata.arcgis.com/datasets/02533928ed1649d2ac773c8ebf50f37d_1?geometry=-111.959%2C33.414%2C-111.899%2C33.426) - [ASU Data](https://moto.data.socrata.com/dataset/Arizona-State-University-Police-Department/6fzp-yqnh) | [Notebook](https://github.com/seb-patron/tempe-crime-analysis/blob/master/notebooks/0001-tempe-crime-exploration-and-visualization.ipynb) | Jan 2025 | Jan 2025 |
 | **Pokemon Data Visualization** | Statistical visualizations of Pokemon characteristics using Seaborn | [Elite Data Science](https://elitedatascience.com/wp-content/uploads/2017/04/Pokemon.csv) | [Notebook](https://github.com/seb-patron/Seaborn-Visualizations/blob/master/notebooks/0001-visualizing-pokemon-data-seaborn.ipynb) | Dec 2024 | Dec 2024 |
 
-## 🔥 Big Data Projects
+## 🔥 Apache Spark Projects
 
-Projects utilizing big data technologies and frameworks.
+Projects utilizing Apache Spark for distributed data processing.
 
 ### Spark Projects
 
@@ -81,6 +83,7 @@ Implementation of various machine learning algorithms in Python.
 
 | Algorithm | Description | Dataset | Implementation | Created | Updated |
 |-----------|-------------|---------|----------------|---------|---------|
+| **arXiv Paper Classification** | ML techniques to classify arXiv papers based on their title and abstract text using PySpark ML library, achieving ~62% accuracy across 100+ scientific categories | arXiv Dataset | [Notebook](https://github.com/seb-patron/arxiv-spark/blob/main/notebooks/arxiv-supervised-classification.ipynb) | April 2025 | April 2025 |
 | **Linear Regression** | Implementation of linear regression algorithm | Food Truck Data | [Notebook](https://github.com/seb-patron/machine-learning-stanford/blob/master/hw1/exercise1.ipynb) | Sep 2017 | Sep 2017 |
 | **Logistic Regression** | Custom implementation in raw Python | Exam Scores, Microchip Tolerance | [Notebook](https://github.com/seb-patron/machine-learning-stanford/blob/master/hw2/logistic-regresion.ipynb) | Sep 2017 | Nov 2018 |
 | **Naive Bayes** | Spam text classifier using TF-IDF Tabu List | Kaggle Dataset | [Notebook](https://github.com/seb-patron/machine-learning-python/blob/master/notebooks/naive_bayes/0001-Model-BUILD-Naive-Bayes-Spam-Classification.ipynb) | Dec 2018 | Dec 2018 |
