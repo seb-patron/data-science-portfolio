@@ -15,12 +15,12 @@ Welcome to my data science portfolio! This repository showcases various projects
 
 ## 📑 Table of Contents
 
-- [Visualization and Analysis](#visualization-and-analysis)
-- [Apache Spark Projects](#apache-spark-projects)
-- [Orchestration Projects](#orchestration-projects)
-- [SQL Projects](#sql-projects)
-- [Machine Learning Projects](#machine-learning-projects)
-- [Contact Information](#contact-information)
+- [Visualization and Analysis](#-visualization-and-analysis)
+- [Apache Spark Projects](#-apache-spark-projects)
+- [Orchestration Projects](#-orchestration-projects)
+- [SQL Projects](#️-sql-projects)
+- [Machine Learning Projects](#-machine-learning-projects)
+- [Contact Information](#-contact-information)
 
 ## 📊 Visualization and Analysis
 
