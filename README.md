@@ -15,6 +15,7 @@ Welcome to my data science portfolio! This repository showcases various projects
 
 - [Data Science Projects](#data-science-projects)
 - [Big Data Projects](#big-data-projects)
+- [Orchestration Projects](#orchestration-projects)
 - [SQL Projects](#sql-projects)
 - [Machine Learning Projects](#machine-learning-projects)
 - [Contact Information](#contact-information)
@@ -56,6 +57,14 @@ Projects utilizing big data technologies and frameworks.
 |--------------------------|-------------------------------------------------------|----------------------------------------------------------------------------------------------------------------|------------|------------|
 | **Elasticsearch Integration**   | Processing and indexing arXiv papers with citation networks into Elasticsearch, enabling complex queries combining content similarity with citation analysis | [Notebook](https://github.com/seb-patron/arxiv-spark/blob/main/notebooks/index-papers-with-refs-to-elasticsearch.ipynb) | April 2025 | April 2025 |
 | **Supervised Classification**   | ML techniques to classify arXiv papers based on their title and abstract text using PySpark ML library, achieving ~62% accuracy across 100+ scientific categories | [Notebook](https://github.com/seb-patron/arxiv-spark/blob/main/notebooks/arxiv-supervised-classification.ipynb) | April 2025 | April 2025 |
+
+## 🔄 Orchestration Projects
+
+Projects using workflow orchestration tools to automate data pipelines.
+
+| Project | Description | Technology | Implementation | Created | Updated |
+|---------|-------------|------------|----------------|---------|---------|
+| **Pokemon Showdown Airflow ETL** | ETL pipeline for extracting, transforming, and loading Pokemon Showdown battle replay data, organized into a date-based directory structure and tracked with SQLite | Apache Airflow, Python, Docker | [Repository](https://github.com/seb-patron/Pokemon-Showdown-Airflow-ETL) | May 2025 | May 2025 |
 
 ## 🗃️ SQL Projects
 
