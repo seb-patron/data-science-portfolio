@@ -66,7 +66,7 @@ Projects using workflow orchestration tools to automate data pipelines.
 
 | Project | Description | Technology | Implementation | Created | Updated |
 |---------|-------------|------------|----------------|---------|---------|
-| **Pokemon Showdown Airflow ETL** | ETL pipeline for extracting, transforming, and loading Pokemon Showdown battle replay data, organized into a date-based directory structure and tracked with SQLite | Apache Airflow, Python, Docker | [Repository](https://github.com/seb-patron/Pokemon-Showdown-Airflow-ETL) | May 2025 | May 2025 |
+| **Pokemon Showdown Airflow ETL** | ETL pipeline for extracting, transforming, and loading Pokemon Showdown battle replay data, organized into a date-based directory structure and tracked with SQLite | Apache Airflow, Python, Docker | [Repository](https://github.com/seb-patron/Pokemon-Showdown-Airflow-ETL) | April 2025 | April 2025 |
 
 ## 🗃️ SQL Projects
 
